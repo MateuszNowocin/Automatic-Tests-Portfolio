@@ -1,10 +1,12 @@
-This repository was created as a means of showcasing my knowledge and skills in test automation.
+**Automatic Tests Portfolio**
+
+This repository was created as a means of showcasing my knowledge and skills in test automation. It contains a group of projects focused on various types of testing, across different platforms/web apps. 
 
 Currently, there are two projects stored here:
-    - SeleniumUsingjava - In Progress
-    - SeleniumUsingPython - On Hold
+- SeleniumUsingjava - **In Progress**
+- SeleniumUsingPython - **On Hold**
 
-SeleniumUsingJava project
+**SeleniumUsingJava project**
 
     What is being used in the testing framework:
     - Selenium WebDriver
@@ -15,7 +17,7 @@ SeleniumUsingJava project
     - WebDriver Manager
 
 In the future, there are plans for the following projects:
-    - API Testing using Postman/JavaScript
-    - Cypress for E2E testing, using JavaScript
+- API Testing using Postman/JavaScript
+- Cypress for E2E testing, using JavaScript
 
-For further information, check the README files in each indicidual proejct. 
+For further information, check the README files in each individual proejct. 
