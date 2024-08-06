@@ -1,10 +1,12 @@
+**Automatic Tests Portfolio**
+
 This repository was created as a means of showcasing my knowledge and skills in test automation.
 
 Currently, there are two projects stored here:
-    - SeleniumUsingjava - In Progress
-    - SeleniumUsingPython - On Hold
+    - SeleniumUsingjava - **In Progress**
+    - SeleniumUsingPython - **On Hold**
 
-SeleniumUsingJava project
+**SeleniumUsingJava project**
 
     What is being used in the testing framework:
     - Selenium WebDriver
