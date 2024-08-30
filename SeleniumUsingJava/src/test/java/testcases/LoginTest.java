@@ -1,16 +1,18 @@
 package testcases;
 
+import base.BaseTest;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
 
-public class LoginTest {
-    public static void main(String[] args){
+import java.io.IOException;
 
-        WebDriverManager.chromedriver().setup(); //download and setup the chrome driver
-        WebDriver driver = new ChromeDriver();
-        driver.get("https://www.saucedemo.com/");
+
+public class LoginTest extends BaseTest {
+    @Test
+    public static void loginTest() {
 
         //log in
         driver.findElement(By.id("user-name")).sendKeys("standard_user");
